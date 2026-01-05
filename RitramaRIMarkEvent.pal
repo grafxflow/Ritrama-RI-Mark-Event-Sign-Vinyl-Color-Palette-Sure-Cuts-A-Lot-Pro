@@ -1,0 +1,98 @@
+<xml version="1.0">
+
+<palette name="Ritrama RI-Mark Event Sign Vinyl Palette" lock="true">
+<c m="rgb" r="223" g="234" b="240" n="100 White Contrast"/>
+<c m="rgb" r="250" g="230" b="93" n="110 Primrose"/>
+<c m="rgb" r="254" g="211" b="53" n=""113 Stone Yellow/>
+<c m="rgb" r="255" g="206" b="32" n="114 Butter Yellow"/>
+<c m="rgb" r="255" g="193" b="60" n="112 Bright Yellow"/>
+<c m="rgb" r="255" g="180" b="61" n="111 Golden Yellow"/>
+<c m="rgb" r="255" g="153" b="20" n="115 Light Orange"/>
+<c m="rgb" r="241" g="107" b="59" n="120 Orange"/>
+<c m="rgb" r="206" g="76" b="64" n="132 Medium Red"/>
+<c m="rgb" r="204" g="65" b="68" n="130 Red"/>
+<c m="rgb" r="186" g="61" b="64" n="133 Dark Red"/>
+<c m="rgb" r="127" g="74" b="76" n="135 Burgundy"/>
+<c m="rgb" r="96" g="84" b="148" n="151 Perfect Purple"/>
+<c m="rgb" r="146" g="82" b="128" n="150 Violet"/>
+<c m="rgb" r="192" g="73" b="114" n="189 Hot Pink"/>
+<c m="rgb" r="215" g="108" b="159" n="141 Pink"/>
+<c m="rgb" r="99" g="74" b="66" n="145 Brown"/>
+<c m="rgb" r="241" g="210" b="170" n="105 Beige"/>
+<c m="rgb" r="135" g="191" b="109" n="178 Apple Green"/>
+<c m="rgb" r="145" g="207" b="88" n="186 Lime"/>
+<c m="rgb" r="86" g="159" b="57" n="185 Grass Green"/>
+<c m="rgb" r="62" g="136" b="85" n="179 Bright Green"/>
+<c m="rgb" r="0" g="139" b="89" n="187 Kelly Green"/>
+<c m="rgb" r="0" g="123" b="88" n="180 Medium Green"/>
+<c m="rgb" r="33" g="87" b="70" n="184 Racing Green"/>
+<c m="rgb" r="67" g="96" b="81" n="183 Forest Green"/>
+<c m="rgb" r="0" g="120" b="131" n="177 Turquoise"/>
+<c m="rgb" r="0" g="174" b="169" n="176 Aqua Green"/>
+<c m="rgb" r="82" g="190" b="230" n="157 Light Blue"/>
+<c m="rgb" r="0" g="157" b="210" n="158 Olympic Blue"/>
+<c m="rgb" r="0" g="122" b="180" n="159 Azure Blue"/>
+<c m="rgb" r="23" g="100" b="150" n="160 Permanent Blue"/>
+<c m="rgb" r="39" g="88" b="176" n="168 Brilliant Blue"/>
+<c m="rgb" r="57" g="79" b="138" n="170 Ultra Blue"/>
+<c m="rgb" r="53" g="83" b="138" n="161 Ultramarine Blue"/>
+<c m="rgb" r="60" g="79" b="112" n="172 Dark Blue"/>
+<c m="rgb" r="57" g="67" b="86" n="173 Cobalt Blue"/>
+<c m="rgb" r="198" g="202" b="205" n="121 Mist Grey"/>
+<c m="rgb" r="155" g="159" b="156" n="104 Grey"/>
+<c m="rgb" r="105" g="113" b="120" n="122 Elephant Grey"/>
+<c m="rgb" r="94" g="97" b="98" n="107 Dark Grey"/>
+<c m="rgb" r="61" g="62" b="63" n="101 Black"/>
+<c m="rgb" r="103" g="101" b="98" n="103 Charcoal"/>
+<c m="rgb" r="180" g="182" b="182" n="181 Silver"/>
+<c m="rgb" r="190" g="37" b="75" n="171 Gold"/>
+<c m="rgb" r="255" g="255" b="255" n="199 Transparent"/>
+<c m="rgb" r="227" g="233" b="236" n="300 White Matt Contrast"/>
+<c m="rgb" r="249" g="227" b="77" n="310 Primrose Matt"/>
+<c m="rgb" r="254" g="221" b="53" n="313 Stone Yellow Matt"/>
+<c m="rgb" r="255" g="206" b="27" n="314 Butter Yellow Matt"/>
+<c m="rgb" r="255" g="195" b="36" n="312 Bright Yellow Matt"/>
+<c m="rgb" r="255" g="177" b="43" n="311 Golden Yellow Matt"/>
+<c m="rgb" r="254" g="154" b="13" n="315 Light Orange Matt"/>
+<c m="rgb" r="255" g="117" b="49" n="316 Shining Orange Matt"/>
+<c m="rgb" r="228" g="96" b="61" n="320 Orange Matt"/>
+<c m="rgb" r="205" g="72" b="61" n="329 Light Red Matt"/>
+<c m="rgb" r="197" g="60" b="67" n="332 Medium Red Matt"/>
+<c m="rgb" r="183" g="58" b="61" n="330 Red Matt"/>
+<c m="rgb" r="174" g="56" b="60" n="333 Dark Red Matt"/>
+<c m="rgb" r="151" g="62" b="60" n="334 Wine Red Matt"/>
+<c m="rgb" r="111" g="63" b="71" n="335 Burgundy Matt"/>
+<c m="rgb" r="104" g="79" b="71" n="345 Brown Matt"/>
+<c m="rgb" r="237" g="203" b="163" n="305 Biege Matt"/>
+<c m="rgb" r="135" g="78" b="116" n="350 Violet Matt"/>
+<c m="rgb" r="215" g="104" b="151" n="341 Pink Matt"/>
+<c m="rgb" r="240" g="152" b="194" n="342 Light Pink Matt"/>
+<c m="rgb" r="138" g="202" b="81" n="378 Apple Green Matt"/>
+<c m="rgb" r="121" g="172" b="71" n="373 Light Green Matt"/>
+<c m="rgb" r="57" g="137" b="68" n="374 Cactus Green Matt"/>
+<c m="rgb" r="45" g="134" b="90" n="379 Bright Green Matt"/>
+<c m="rgb" r="0" g="132" b="97" n="380 Green Matt"/>
+<c m="rgb" r="0" g="103" b="74" n="382 Leaf Green Matt"/>
+<c m="rgb" r="62" g="91" b="76" n="383 Forest Green Matt"/>
+<c m="rgb" r="0" g="143" b="148" n="376 Agua Green Matt"/>
+<c m="rgb" r="161" g="203" b="221" n="356 Pastel Blue Matt"/>
+<c m="rgb" r="56" g="177" b="218" n="357 Light Blue Matt"/>
+<c m="rgb" r="0" g="156" b="208" n="358 Olympic Blue Matt"/>
+<c m="rgb" r="0" g="117" b="173" n="359 Medium Blue Matt"/>
+<c m="rgb" r=""0 g="98" b="149" n="360 Permanent Blue Matt"/>
+<c m="rgb" r="0" g="92" b="157" n="366 Vivid Blue Matt"/>
+<c m="rgb" r="37" g="89" b="173" n="368 Brilliant Blue Matt"/>
+<c m="rgb" r="50" g="78" b="132" n="370 Ultra Blue Matt"/>
+<c m="rgb" r="60" g="79" b="112" n="372 Dark Blue Matt"/>
+<c m="rgb" r="198" g="202" b="205" n="321 Mist Grey Matt"/>
+<c m="rgb" r="138" g="149" b="161" n="323 Mouse Grey Matt"/>
+<c m="rgb" r="129" g="132" b="133" n="304 Grey Matt"/>
+<c m="rgb" r="107" g="113" b="113" n="307 Medium Grey Matt"/>
+<c m="rgb" r="105" g="113" b="120" n="322 Elephant Grey Matt"/>
+<c m="rgb" r="59" g="59" b="61" n="301 Black Matt"/>
+<c m="rgb" r="100" g="99" b="96" n="303 Charcoal Matt"/>
+<c m="rgb" r="183" g="185" b="185" n="381 Silver Matt"/>
+<c m="rgb" r="187" g="152" b="91" n="371 Gold Matt"/>
+</palette>
+
+</xml>
