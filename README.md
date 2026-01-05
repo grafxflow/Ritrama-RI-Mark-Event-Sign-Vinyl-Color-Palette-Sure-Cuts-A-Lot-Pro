@@ -1,6 +1,6 @@
 # Ritrama RI-Mark Event Sign Vinyl Color Palette for Sure Cuts A Lot Pro
 
-** Ritrama RI-Mark Event** Sign Vinyl Palette colors reference for usage in the **Sure Cuts A Lot Pro** application.
+**Ritrama RI-Mark Event** Sign Vinyl Palette colors reference for usage in the **Sure Cuts A Lot Pro** application.
 
 ## Install
 
