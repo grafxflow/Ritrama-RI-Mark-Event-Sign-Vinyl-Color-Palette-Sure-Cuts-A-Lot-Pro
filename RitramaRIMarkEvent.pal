@@ -1,6 +1,6 @@
 <xml version="1.0">
 
-<palette name="Ritrama RI-Mark Event Sign Vinyl Palette" lock="true">
+<palette name="Ritrama RI Mark Event Sign Vinyl Palette" lock="true">
 <c m="rgb" r="223" g="234" b="240" n="100 White Contrast"/>
 <c m="rgb" r="250" g="230" b="93" n="110 Primrose"/>
 <c m="rgb" r="254" g="211" b="53" n="113 Stone Yellow"/>
